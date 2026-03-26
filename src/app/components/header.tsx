@@ -26,7 +26,7 @@ export function Header() {
         <div className="flex items-center justify-between h-14">
           <Link to="/" className="flex items-center gap-2">
             <span className="text-xl">🤸</span>
-            <span className="text-lg font-bold text-gray-900">Gym Market</span>
+            <span className="text-lg font-bold text-gray-900">GymMarket</span>
           </Link>
           <div className="flex items-center gap-3">
             {user ? (
